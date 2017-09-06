@@ -1,0 +1,6 @@
+framework module FLTickerSlider {
+  umbrella header "FLTickerSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}

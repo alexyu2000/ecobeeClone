@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.3.0)
+  - FLTickerSlider (0.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - FLTickerSlider
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  FLTickerSlider: f388e52fb3cb6d636ee6c0ea8b58ac6c72097cc9
+
+PODFILE CHECKSUM: 3c12711e0fe15d7760e16a7c910b4ff36f5c9bff
+
+COCOAPODS: 1.2.0
